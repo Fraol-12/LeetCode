@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Fraol-12/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0567-permutation-in-string](https://github.com/Fraol-12/LeetCode/tree/master/0567-permutation-in-string) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Fraol-12/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
 | ------- |
@@ -20,4 +21,9 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Fraol-12/LeetCode/tree/master/0567-permutation-in-string) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Fraol-12/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Array
+|  |
+| ------- |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Fraol-12/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
