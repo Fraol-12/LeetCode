@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Fraol-12/LeetCode/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Fraol-12/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Fraol-12/LeetCode/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/Fraol-12/LeetCode/tree/master/0567-permutation-in-string) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Fraol-12/LeetCode/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Fraol-12/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Fraol-12/LeetCode/tree/master/0283-move-zeroes) |
 | [0917-boats-to-save-people](https://github.com/Fraol-12/LeetCode/tree/master/0917-boats-to-save-people) |
@@ -47,5 +49,6 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Fraol-12/LeetCode/tree/master/0011-container-with-most-water) |
 | [0917-boats-to-save-people](https://github.com/Fraol-12/LeetCode/tree/master/0917-boats-to-save-people) |
 <!---LeetCode Topics End-->
