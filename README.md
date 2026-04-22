@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Fraol-12/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/Fraol-12/LeetCode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
@@ -25,5 +26,10 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Fraol-12/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Fraol-12/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Fraol-12/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
