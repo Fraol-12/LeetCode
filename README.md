@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Fraol-12/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0394-decode-string](https://github.com/Fraol-12/LeetCode/tree/master/0394-decode-string) |
 | [0567-permutation-in-string](https://github.com/Fraol-12/LeetCode/tree/master/0567-permutation-in-string) |
 | [0742-to-lower-case](https://github.com/Fraol-12/LeetCode/tree/master/0742-to-lower-case) |
 | [2470-removing-stars-from-a-string](https://github.com/Fraol-12/LeetCode/tree/master/2470-removing-stars-from-a-string) |
@@ -61,9 +62,14 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/Fraol-12/LeetCode/tree/master/0394-decode-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Fraol-12/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [2470-removing-stars-from-a-string](https://github.com/Fraol-12/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Fraol-12/LeetCode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
