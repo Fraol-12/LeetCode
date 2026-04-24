@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Fraol-12/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Fraol-12/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0567-permutation-in-string](https://github.com/Fraol-12/LeetCode/tree/master/0567-permutation-in-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Fraol-12/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Fraol-12/LeetCode/tree/master/0011-container-with-most-water) |
+| [0128-longest-consecutive-sequence](https://github.com/Fraol-12/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Fraol-12/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Fraol-12/LeetCode/tree/master/0283-move-zeroes) |
 | [0917-boats-to-save-people](https://github.com/Fraol-12/LeetCode/tree/master/0917-boats-to-save-people) |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Fraol-12/LeetCode/tree/master/0394-decode-string) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Fraol-12/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
