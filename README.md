@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0049-group-anagrams](https://github.com/Fraol-12/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Fraol-12/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Fraol-12/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0238-product-of-array-except-self](https://github.com/Fraol-12/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Fraol-12/LeetCode/tree/master/0283-move-zeroes) |
 | [0917-boats-to-save-people](https://github.com/Fraol-12/LeetCode/tree/master/0917-boats-to-save-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Fraol-12/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/Fraol-12/LeetCode/tree/master/0969-number-of-recent-calls) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Fraol-12/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
