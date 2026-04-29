@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Fraol-12/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Fraol-12/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Fraol-12/LeetCode/tree/master/0283-move-zeroes) |
+| [0792-binary-search](https://github.com/Fraol-12/LeetCode/tree/master/0792-binary-search) |
 | [0917-boats-to-save-people](https://github.com/Fraol-12/LeetCode/tree/master/0917-boats-to-save-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Fraol-12/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Fraol-12/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Fraol-12/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0633-sum-of-square-numbers](https://github.com/Fraol-12/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0792-binary-search](https://github.com/Fraol-12/LeetCode/tree/master/0792-binary-search) |
 ## Sorting
 |  |
 | ------- |
